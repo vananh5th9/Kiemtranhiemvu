@@ -1,0 +1,8 @@
+Package: com.anh.ffhack
+Name: ffhack
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Free Fire hack
+Maintainer: anh
+Author: anh
+Section: Tweaks
